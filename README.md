@@ -1,131 +1,213 @@
-<!-- TERMINAL COMMAND LINE INTERFACE THEME -->
-
-```bash
-$ whoami
-shubham@pardule:~$ 
-
-$ cat /proc/developer/info
-Name: Shubham Pardule
-Location: Maharashtra, India
-Role: Full-Stack Developer & System Architect
-Status: Active
-PID: 10neWOlF
-CPU Usage: 95% (Building TransmitFlow)
-Memory: Unlimited creativity allocated
-Uptime: 24/7 coding passion
-
-$ ls -la skills/
-total 256
-drwxr-xr-x  8 shubham developers  4096 Aug 17 14:15 .
-drwxr-xr-x 12 shubham developers  4096 Aug 17 14:15 ..
--rwxr-xr-x  1 shubham developers  8192 Aug 17 14:15 typescript
--rwxr-xr-x  1 shubham developers  7680 Aug 17 14:15 react
--rwxr-xr-x  1 shubham developers  7168 Aug 17 14:15 nextjs
--rwxr-xr-x  1 shubham developers  6656 Aug 17 14:15 python
--rwxr-xr-x  1 shubham developers  6144 Aug 17 14:15 django
--rwxr-xr-x  1 shubham developers  5632 Aug 17 14:15 nodejs
--rwxr-xr-x  1 shubham developers  5120 Aug 17 14:15 gcp
--rwxr-xr-x  1 shubham developers  4608 Aug 17 14:15 aws
--rwxr-xr-x  1 shubham developers  4096 Aug 17 14:15 docker
-
-$ ps aux | grep projects
-USER       PID  %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
-shubham   2024  85.3  92.1 999999 32768 pts/0   R+   Jan01 999:99 transmitflow
-shubham   2025   5.2   3.8  12345  1024 pts/1   S    Aug17   2:15 learning_ai_ml
-shubham   2026   3.1   2.1   8192   512 pts/2   S    Aug17   1:45 open_source_contrib
-shubham   2027   2.8   1.9   6144   256 pts/3   S    Aug17   1:12 cloud_exploration
-
-$ cat projects/transmitflow/README.md
-```
+<!-- COMIC BOOK SUPERHERO THEME -->
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&size=16&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=shubham%40github:~%24+git+status;shubham%40github:~%24+npm+run+build;shubham%40github:~%24+docker+compose+up;shubham%40github:~%24+Ready+to+collaborate!)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,12,15,20&height=200&section=header&text=⚡%20THE%20CODE%20CRUSADER%20⚡&fontSize=45&fontColor=ffffff&animation=blinking&fontAlign=50&fontAlignY=40&desc=Shubham%20Pardule%20•%20Full-Stack%20Hero&descSize=18&descAlign=50&descAlignY=60"/>
+
+```
+    ██████╗ ███████╗ ██████╗ ██╗  ██╗
+   ██╔════╝ ██╔════╝██╔═══██╗██║  ██║
+   ██║  ███╗█████╗  ██║   ██║███████║
+   ██║   ██║██╔══╝  ██║   ██║██╔══██║
+   ╚██████╔╝███████╗╚██████╔╝██║  ██║
+    ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
+      
+    🦸‍♂️ DEFENDER OF CLEAN CODE 🦸‍♂️
+```
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=900&size=24&duration=2000&pause=1200&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=100&lines=⚡+ORIGIN+STORY+LOADING...;💥+FULL-STACK+POWERS+ACTIVATED!;🚀+TRANSMITFLOW+MISSION+ENGAGED;🌟+SAVING+THE+WORLD+WITH+CODE!)
 
 </div>
 
-```bash
-# TransmitFlow - P2P File Transfer Revolution
-# ==========================================
+---
 
-PROJECT_NAME="TransmitFlow"
-VERSION="1.0.0-beta"
-LANGUAGE="TypeScript"
-FRAMEWORK="React + Node.js"
-PROTOCOL="WebRTC"
+## 🦸‍♂️ **HERO PROFILE**
 
-STATUS="IN_DEVELOPMENT"
-PROGRESS=80
-RELEASE_DATE="2025-Q2"
-
-# Key Features
-ENCRYPTION="end-to-end"
-STORAGE="zero-server"
-SPEED="lightning-fast"
-PLATFORM="cross-platform"
-
-$ echo "Building the future of file sharing..." && sleep 1 && echo "Done! 🚀"
-Building the future of file sharing...
-Done! 🚀
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                        🌟 HERO DATABASE 🌟                       ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║  REAL NAME: Shubham Pardule                                       ║
+║  HERO ALIAS: The Code Crusader                                    ║
+║  ORIGIN: Maharashtra, India 🇮🇳                                   ║
+║  FIRST APPEARANCE: Early 2020s                                    ║
+║  ALIGNMENT: Chaotic Good (Breaks rules to build better code)      ║
+║  TEAM AFFILIATION: Full-Stack Avengers                            ║
+║                                                                   ║
+║  💪 SUPERPOWERS:                                                   ║
+║  ├─ TypeScript Mastery (Level: Expert)                           ║
+║  ├─ React Component Manipulation                                  ║
+║  ├─ Python Snake Charming                                        ║
+║  ├─ Cloud Architecture Flying                                     ║
+║  └─ Bug Detection X-Ray Vision                                    ║
+║                                                                   ║
+║  🎯 CURRENT MISSION: Operation TransmitFlow                       ║
+║  🏆 ACHIEVEMENTS: Countless bugs defeated, features created        ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-```bash
-$ curl -s https://api.github.com/users/10neWOlF/stats | jq '.'
-```
+---
+
+## ⚡ **POWER LEVELS**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=terminal&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true)
+### 🔥 **FRONTEND ABILITIES**
+```
+TypeScript  ████████████████████████████████████████ 95%
+React.js    ████████████████████████████████████████ 90%
+Next.js     ████████████████████████████████████░░░░ 88%
+JavaScript  ████████████████████████████████████░░░░ 85%
+CSS/HTML    ████████████████████████████████░░░░░░░░ 82%
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10neWOlF&layout=compact&theme=terminal&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff)
+### 💀 **BACKEND POWERS**
+```
+Python      ████████████████████████████████████░░░░ 87%
+Django      ████████████████████████████████░░░░░░░░ 85%
+Node.js     ████████████████████████████████░░░░░░░░ 83%
+APIs        ████████████████████████████████████░░░░ 88%
+Databases   ████████████████████████████░░░░░░░░░░░░ 80%
+```
+
+### ☁️ **CLOUD ABILITIES**
+```
+Google Cloud ████████████████████████████░░░░░░░░░░░ 78%
+AWS         ████████████████████████████░░░░░░░░░░░░ 75%
+Docker      ████████████████████████████████░░░░░░░░ 82%
+Firebase    ████████████████████████████████░░░░░░░░ 80%
+```
 
 </div>
 
-```bash
-$ cat /etc/contact.conf
-# Contact Configuration
-# =====================
+---
 
-[email]
-address = "shubhamp2504@gmail.com"
-encryption = "PGP"
-response_time = "fast"
-
-[social]
-twitter = "@ShubhamPardule"  
-instagram = "@_.__.shubham.__._"
-github = "@10neWOlF"
-location = "Maharashtra, India"
-
-[availability]
-status = "open to collaboration"
-timezone = "IST (GMT+5:30)"
-languages = ["English", "Hindi", "Marathi"]
-
-$ history | tail -5
-1001  git commit -m "feat: implement secure file transfer"
-1002  npm run test -- --coverage
-1003  docker build -t transmitflow .
-1004  git push origin feature/encryption
-1005  echo "Another successful day of coding! 💻"
-
-$ uptime
- 14:15:32 up 365 days, 12:30, 1 user, load average: 0.85, 0.92, 0.78
-
-$ fortune
-"Code is like humor. When you have to explain it, it's bad." - Cory House
-
-$ exit
-logout
-Connection to shubham-pardule.dev closed.
-```
+## 🚀 **CURRENT MISSION: OPERATION TRANSMITFLOW**
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-Terminal_Access-green?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000&color=00ff41)](mailto:shubhamp2504@gmail.com)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-SSH_Connect-blue?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000&color=1da1f2)](https://x.com/ShubhamPardule)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-FTP_Link-purple?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000&color=e4405f)](https://instagram.com/_.__.shubham.__._)
+```
+💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
+💥                                                        💥
+💥               🎯 MISSION BRIEFING 🎯                   💥
+💥                                                        💥
+💥  OPERATION NAME: TransmitFlow                          💥
+💥  THREAT LEVEL: World-Changing Innovation               💥
+💥  OBJECTIVE: Create the ultimate P2P file transfer      💥
+💥             system that saves humanity from           💥
+💥             insecure file sharing villains!           💥
+💥                                                        💥
+💥  🛡️ WEAPONS DEPLOYED:                                  💥
+💥  ├─ TypeScript (Primary weapon)                       💥
+💥  ├─ React (Shield generator)                          💥  
+💥  ├─ WebRTC (Communication device)                     💥
+💥  └─ Node.js (Power source)                            💥
+💥                                                        💥
+💥  📊 MISSION PROGRESS:                                  💥
+💥  [████████████████████░░░░] 80% COMPLETE               💥
+💥                                                        💥
+💥  🎯 ESTIMATED COMPLETION: Q2 2025                      💥
+💥  💪 STATUS: HERO IS FULLY ENGAGED!                     💥
+💥                                                        💥
+💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
+```
 
-<img src="https://komarev.com/ghpvc/?username=10neWOlF&label=Terminal%20Sessions&color=00ff41&style=for-the-badge&labelColor=000000" alt="Terminal Sessions"/>
+</div>
+
+---
+
+## 📊 **HERO STATISTICS**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a23&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10neWOlF&layout=compact&theme=radical&hide_border=true&bg_color=0a0a23&title_color=ff6b35&text_color=ffffff" width="48%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=10neWOlF&theme=radical&hide_border=true&background=0a0a23&stroke=ff6b35&ring=ffdd44&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b35&sideLabels=ffdd44&dates=ffffff"/>
+
+</div>
+
+---
+
+## 🏆 **ACHIEVEMENTS UNLOCKED**
+
+<div align="center">
+
+```
+🏅 CODING CHAMPION         🎯 BUG DESTROYER SUPREME
+🚀 INNOVATION MASTER       💡 PROBLEM SOLVING WIZARD  
+🌟 FULL-STACK LEGEND       ⚡ TYPESCRIPT VIRTUOSO
+🛡️ CODE QUALITY GUARDIAN   🔥 REACT COMPONENT HERO
+☁️ CLOUD ARCHITECTURE ACE  🎪 OPEN SOURCE CONTRIBUTOR
+```
+
+</div>
+
+---
+
+## 📞 **HERO COMMUNICATION CENTER**
+
+<div align="center">
+
+```
+🦸‍♂️ HOW TO REACH THE CODE CRUSADER 🦸‍♂️
+════════════════════════════════════════
+```
+
+<a href="mailto:shubhamp2504@gmail.com">
+<img src="https://img.shields.io/badge/⚡_HERO_HOTLINE-Emergency_Contact-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a23&color=ff6b35"/>
+</a>
+<a href="https://x.com/ShubhamPardule">
+<img src="https://img.shields.io/badge/🐦_HERO_NETWORK-Twitter_HQ-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0a23&color=1da1f2"/>
+</a>
+<a href="https://instagram.com/_.__.shubham.__._">
+<img src="https://img.shields.io/badge/📸_HERO_CAM-Instagram_Feed-e4405f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a23&color=e4405f"/>
+</a>
+<a href="https://github.com/10neWOlF">
+<img src="https://img.shields.io/badge/💻_HERO_BASE-GitHub_Fortress-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a23&color=333333"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=10neWOlF&label=Citizens%20Saved&color=ff6b35&style=for-the-badge&labelColor=0a0a23" alt="Citizens Saved"/>
+
+</div>
+
+---
+
+## 🌟 **HERO ACTIVITY MONITOR**
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake.svg">
+  <img alt="hero's daily crime-fighting activities" src="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║  💥 "With great coding power comes great responsibility" 💥        ║
+║                                                                   ║
+║  🦸‍♂️ The Code Crusader is always ready to save the day with      ║
+║     clean, efficient, and innovative solutions!                   ║
+║                                                                   ║
+║  🌟 Join the mission! Together we can build a better web! 🌟      ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,12,15,20&height=120&section=footer&text=TO%20BE%20CONTINUED...&fontSize=20&fontColor=ffffff&animation=blinking"/>
 
 </div>

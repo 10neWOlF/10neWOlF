@@ -1,133 +1,87 @@
-# Hi there, I'm 10neWOlF! 👋
-
 <div align="center">
-  
-<!-- Your Custom Profile Header -->
-<img src="./profile.svg" alt="10neWOlF Profile" width="800" style="max-width: 100%; background: white;">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=10neWOlF&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=1500&color=00FF41&center=true&vCenter=true&width=500&height=60&lines=FULL-STACK+DEVELOPER;BUILDING+TRANSMITFLOW;MAHARASHTRA%2C+INDIA;STATUS%3A+CODING..." alt="Typing SVG" />
+
+<div>
+<img src="https://img.shields.io/badge/🎮_STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000"/>
+<img src="https://img.shields.io/badge/🏆_LEVEL-SENIOR_DEV-ff6b00?style=for-the-badge&labelColor=000"/>
+</div>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🛠️ **TECH STACK**
 
 <div align="center">
-  
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=10newolf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"/>
 
-<!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10newolf&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
+**Frontend:** 
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript" height="25"/>
 
-</div>
+**Backend:** 
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,mongodb" height="25"/>
 
-<!-- GitHub Streak Stats -->
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=10newolf&theme=tokyonight&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  
-[![10neWOlF's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=10newolf&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**Tools:** 
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,vscode" height="25"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 **GAME STATS**
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=10newolf&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=ffaa00&text_color=ffffff&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=10neWOlF&theme=dark&hide_border=true&background=000000&stroke=00ff41&ring=ffaa00&fire=ff6b00&currStreakNum=ffffff" width="49%"/>
 
 </div>
 
 ---
 
-## 💼 Featured Repositories
+## 🎯 **MAIN QUEST: TRANSMITFLOW**
 
 <div align="center">
-  
-<!-- Replace with your actual repo names -->
-<a href="https://github.com/10newolf/neural-commerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=10newolf&repo=neural-commerce&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
+
+```
+┌─────────────── ACTIVE PROJECT ───────────────┐
+│  🚀 TransmitFlow - P2P File Transfer         │
+│  📊 Progress: ████████░░ 65% Complete        │
+│  🔧 Tech: TypeScript, React, WebRTC, Node.js │
+│  🎯 Goal: Secure & Fast File Sharing         │
+└───────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🌐 **CONNECT**
+
+<div align="center">
+
+<a href="mailto:shubhamp2504@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-ff4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+</a>
+<a href="https://x.com/ShubhamPardule">
+<img src="https://img.shields.io/badge/TWITTER-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/>
+</a>
+<a href="https://github.com/10neWOlF">
+<img src="https://img.shields.io/badge/GITHUB-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
 </a>
 
-<a href="https://github.com/10newolf/data-nexus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=10newolf&repo=data-nexus&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
-</a>
+<br/><br/>
 
-</div>
-
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![10neWOlF's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=10newolf&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true)
-
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/10newolf)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/10newolf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://10newolf.dev)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@10newolf.dev)
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Working on **Neural Commerce Platform** - AI-powered e-commerce solution
-- 🌱 Learning **Advanced AI Integration** and **Cloud Architecture**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, Python, and Cloud Solutions**
-- ⚡ Fun fact: **Building tomorrow's digital experiences, one commit at a time**
-
----
-
-<div align="center">
-
-### 📊 Profile Views
-  
-![Profile Views](https://komarev.com/ghpvc/?username=10newolf&color=58a6ff&style=flat)
+<img src="https://komarev.com/ghpvc/?username=10neWOlF&label=VISITORS&color=00ff41&style=flat-square&labelColor=000000"/>
 
 </div>
 
 ---
 
 <div align="center">
-  
-*"Building tomorrow's digital experiences, one commit at a time"*
 
-⭐️ From [10neWOlF](https://github.com/10newolf)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer&animation=fadeIn"/>
 
 </div>

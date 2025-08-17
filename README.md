@@ -56,7 +56,7 @@ Full-Stack Developer crafting digital experiences through clean architecture and
 
 <img src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=212529&text_color=495057&icon_color=007BFF" height="160" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=10neWOlF&theme=default&hide_border=true&background=FFFFFF&stroke=DEE2E6&ring=007BFF&fire=DC3545&currStreakLabel=212529&sideNums=495057&currStreakNum=212529&dates=6C757D" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=10neWOlF&theme=default&hide_border=true" height="160" />
 
 </div>
 

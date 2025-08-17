@@ -1,6 +1,6 @@
 <div align="center">
 
-<table width="800" cellpadding="30" cellspacing="0" style="border: 1px solid #E5E5E5; background-color: #FFFFFF;">
+<table width="800" cellpadding="30" cellspacing="0" style="border: 2px solid #E5E5E5; background-color: #FFFFFF !important; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 <tr>
 <td>
 

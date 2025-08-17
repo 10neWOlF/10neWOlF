@@ -1,182 +1,189 @@
-<!-- RECIPE COOKING CHEF THEME -->
+<!-- TIME TRAVEL HISTORICAL THEME -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,22&height=180&section=header&text=👨‍🍳%20CHEF%20SHUBHAM%20👨‍🍳&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Master%20of%20Code%20Cuisine&descSize=16&descAlign=50&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,12,20,30&height=200&section=header&text=⏰%20TIME%20TRAVELER%20⏰&fontSize=45&fontColor=ffffff&animation=blinking&fontAlign=50&fontAlignY=40&desc=Shubham%20Pardule%20•%20Coding%20Across%20Centuries&descSize=16&descAlign=50&descAlignY=60"/>
 
 ```
-    ██████╗██╗  ██╗███████╗███████╗    ██████╗  █████╗ ██████╗ ██████╗ ██╗   ██╗██╗     ███████╗
-   ██╔════╝██║  ██║██╔════╝██╔════╝    ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║   ██║██║     ██╔════╝
-   ██║     ███████║█████╗  █████╗      ██████╔╝███████║██████╔╝██║  ██║██║   ██║██║     █████╗  
-   ██║     ██╔══██║██╔══╝  ██╔══╝      ██╔═══╝ ██╔══██║██╔══██╗██║  ██║██║   ██║██║     ██╔══╝  
-   ╚██████╗██║  ██║███████╗██║         ██║     ██║  ██║██║  ██║██████╔╝╚██████╔╝███████╗███████╗
-    ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝         ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝╚══════╝
-                            
-                            🍳 FULL-STACK CULINARY ARTIST 🍳
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                            📜 HISTORICAL RECORDS 📜                         ║
+║                                                                              ║
+║   ████████╗██╗███╗   ███╗███████╗    ████████╗██████╗  █████╗ ██╗   ██╗     ║
+║   ╚══██╔══╝██║████╗ ████║██╔════╝    ╚══██╔══╝██╔══██╗██╔══██╗██║   ██║     ║
+║      ██║   ██║██╔████╔██║█████╗         ██║   ██████╔╝███████║██║   ██║     ║
+║      ██║   ██║██║╚██╔╝██║██╔══╝         ██║   ██╔══██╗██╔══██║╚██╗ ██╔╝     ║
+║      ██║   ██║██║ ╚═╝ ██║███████╗       ██║   ██║  ██║██║  ██║ ╚████╔╝      ║
+║      ╚═╝   ╚═╝╚═╝     ╚═╝╚══════╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝       ║
+║                                                                              ║
+║                    📰 CHRONICLES OF A CODE HISTORIAN 📰                     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=1200&color=F97316&center=true&vCenter=true&multiline=true&width=700&height=90&lines=👨‍🍳+Preparing+Fresh+Code+Daily;🔥+Cooking+with+TypeScript+%26+React;🍽️+Serving+TransmitFlow+Project;⭐+Michelin-Star+Developer!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Old+English&size=22&duration=3000&pause=1500&color=8B4513&center=true&vCenter=true&multiline=true&width=800&height=100&lines=⚡+TEMPORAL+DISPLACEMENT+DETECTED;📜+YEAR+2025+ARCHIVES+LOADING...;⏳+FULL-STACK+HISTORIAN+IDENTIFIED;🔮+PREDICTING+FUTURE+TECHNOLOGIES)
 
 </div>
 
 ---
 
-## 📋 **CHEF'S PROFILE**
+## 📜 **HISTORICAL DOCUMENT: PROFILE SCROLL**
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║                        👨‍🍳 CHEF'S BIO 👨‍🍳                         ║
-╠═══════════════════════════════════════════════════════════════════╣
-║                                                                   ║
-║  NAME: Chef Shubham Pardule                                       ║
-║  RESTAURANT: Full-Stack Kitchen                                   ║
-║  LOCATION: Maharashtra, India 🇮🇳                                 ║
-║  SPECIALITY: Code Fusion Cuisine                                  ║
-║  EXPERIENCE: Master Chef Level                                    ║
-║  SIGNATURE DISH: TransmitFlow P2P Delicacy                        ║
-║                                                                   ║
-║  🏆 AWARDS:                                                        ║
-║  ├─ TypeScript Mastery Certificate                               ║
-║  ├─ React Component Artisan                                      ║
-║  ├─ Python Snake Charmer Badge                                   ║
-║  └─ Cloud Kitchen Architecture Award                             ║
-║                                                                   ║
-║  🍽️ MOTTO: "Cooking code with passion, serving with precision"    ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
+║                         📋 OFFICIAL CHRONICLES 📋                      ║
+║                                                                        ║
+║  SUBJECT: Shubham Pardule, Code Historian & Time Traveler             ║
+║  TEMPORAL ORIGIN: Maharashtra, India, Earth Timeline                   ║
+║  BIRTH ERA: Late 20th Century                                         ║
+║  SPECIALTY: Full-Stack Development Across Multiple Tech Eras           ║
+║  CURRENT MISSION: TransmitFlow Project (Anno Domini 2025)              ║
+║                                                                        ║
+║  📚 MASTERED ANCIENT ARTS:                                             ║
+║  ├─ TypeScript Scrolls (Modern Era Technology)                        ║
+║  ├─ React Manuscripts (Component-Based Architecture)                   ║
+║  ├─ Python Hieroglyphs (Server-Side Ancient Wisdom)                   ║
+║  ├─ Cloud Computing Prophecies (Distributed Systems)                  ║
+║  └─ Database Preservation Techniques (Data Storage Mastery)            ║
+║                                                                        ║
+║  ⚡ TIME TRAVEL ABILITIES:                                              ║
+║  • Can debug code from past, present, and future                      ║
+║  • Predicts technology trends before they happen                      ║
+║  • Bridges ancient coding practices with modern innovation            ║
+║  • Maintains historical documentation of software evolution            ║
+║                                                                        ║
+║  🎯 CURRENT TEMPORAL MISSION: Building TransmitFlow                    ║
+║  📅 ESTIMATED COMPLETION: Q2 2025 CE (Common Era)                     ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🍳 **TODAY'S SPECIAL RECIPE**
+## 🏛️ **SKILLS THROUGH THE AGES**
 
 <div align="center">
 
+### 🏺 **ANCIENT FRONTEND CIVILIZATIONS**
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│                    🍽️ RECIPE OF THE DAY 🍽️                     │
-│                                                                 │
-│                      📖 TRANSMITFLOW DELIGHT 📖                 │
-│                                                                 │
-│  PREP TIME: 6 months        COOK TIME: Ongoing                 │
-│  DIFFICULTY: Expert         SERVINGS: Unlimited users          │
-│                                                                 │
-│  🥘 INGREDIENTS:                                                │
-│  • 2 cups of TypeScript (premium grade)                        │
-│  • 1 large React framework (fresh)                             │
-│  • 3 tbsp Node.js (backend seasoning)                          │
-│  • 1 dash of WebRTC (for real-time flavor)                     │
-│  • Security encryption (to taste)                              │
-│  • A pinch of creativity                                       │
-│  • Unlimited passion for coding                                │
-│                                                                 │
-│  👨‍🍳 COOKING INSTRUCTIONS:                                       │
-│  1. Start by heating your development environment               │
-│  2. Mix TypeScript with React until smooth                     │
-│  3. Gradually add Node.js while stirring continuously          │
-│  4. Sprinkle WebRTC for peer-to-peer connections               │
-│  5. Season with security measures                              │
-│  6. Let it simmer with continuous integration                  │
-│  7. Serve hot to users worldwide!                              │
-│                                                                 │
-│  🎯 EXPECTED COMPLETION: Q2 2025                                │
-│  ⭐ CHEF'S RATING: 5/5 Stars                                    │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+TypeScript Empire    ████████████████████████████████████████ 95% Conquered
+React Republic       ██████████████████████████████████████░░ 92% Unified  
+Next.js Kingdom      ████████████████████████████████████░░░░ 88% Explored
+JavaScript Realm     ██████████████████████████████████░░░░░░ 85% Mapped
+CSS Byzantine        ████████████████████████████░░░░░░░░░░░░ 82% Studied
 ```
 
-</div>
-
----
-
-## 🥘 **KITCHEN SKILLS & TECHNIQUES**
-
-<div align="center">
-
-### 🔥 **FRONTEND COOKING STATION**
+### 🏰 **MEDIEVAL BACKEND DYNASTIES**
 ```
-TypeScript Mastery    🍳🍳🍳🍳🍳🍳🍳🍳🍳🔥 Expert Level
-React Techniques      🍳🍳🍳🍳🍳🍳🍳🍳🍳░ Master Chef  
-Next.js Preparation   🍳🍳🍳🍳🍳🍳🍳🍳░░ Skilled Cook
-JavaScript Basics     🍳🍳🍳🍳🍳🍳🍳🍳░░ Experienced
-CSS Garnishing        🍳🍳🍳🍳🍳🍳🍳🍳░░ Artistic Touch
+Python Dynasty       ██████████████████████████████████░░░░░░ 87% Mastered
+Django Monastery     ████████████████████████████████░░░░░░░░ 85% Learned
+Node.js Guild        ██████████████████████████████░░░░░░░░░░ 83% Trained
+API Trading Routes   ████████████████████████████████████░░░░ 88% Mapped
+Database Archives    ████████████████████████████░░░░░░░░░░░░ 80% Cataloged
 ```
 
-### 🥩 **BACKEND GRILL STATION**
+### ☁️ **MODERN CLOUD RENAISSANCE** 
 ```
-Python Preparation    🥩🥩🥩🥩🥩🥩🥩🥩🔥░ Well-Done
-Django Framework      🥩🥩🥩🥩🥩🥩🥩🥩░░ Medium-Well
-Node.js Searing       🥩🥩🥩🥩🥩🥩🥩🥩░░ Perfectly Cooked
-API Development       🥩🥩🥩🥩🥩🥩🥩🥩🔥░ Flame-Grilled
-Database Management   🥩🥩🥩🥩🥩🥩🥩░░░░ Tender & Juicy
-```
-
-### ☁️ **CLOUD KITCHEN EQUIPMENT**
-```
-Google Cloud Oven     ☁️☁️☁️☁️☁️☁️☁️☁️░░ Professional Grade
-AWS Infrastructure    ☁️☁️☁️☁️☁️☁️☁️░░░░ Commercial Kitchen
-Firebase Sous Vide    ☁️☁️☁️☁️☁️☁️☁️☁️░░ Precision Cooking  
-Docker Containers     ☁️☁️☁️☁️☁️☁️☁️☁️☁️░ Portion Control
+Google Cloud Era     ████████████████████████████░░░░░░░░░░░░ 78% Pioneered
+AWS Industrial Age   ██████████████████████████░░░░░░░░░░░░░░ 75% Established
+Firebase Revolution  ████████████████████████████░░░░░░░░░░░░ 80% Led
+Docker Containers    ██████████████████████████████░░░░░░░░░░ 82% Innovated
 ```
 
 </div>
 
 ---
 
-## 📊 **RESTAURANT REVIEWS & RATINGS**
+## 🔮 **CURRENT HISTORICAL PROJECT: TRANSMITFLOW**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=vue&hide_border=true&bg_color=fef3c7&title_color=f97316&icon_color=f59e0b&text_color=92400e&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10neWOlF&layout=compact&theme=vue&hide_border=true&bg_color=fef3c7&title_color=f97316&text_color=92400e" width="48%"/>
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│           📅 ANNO DOMINI 2025 - MAJOR HISTORICAL EVENT 📅           │
+│                                                                     │
+│  🏛️ PROJECT CODENAME: TransmitFlow                                  │
+│  📰 HISTORICAL SIGNIFICANCE: Revolutionary P2P File Transfer        │
+│  🗓️ TIMELINE: Active Development Phase                              │
+│  🔬 ARCHAEOLOGICAL EVIDENCE: TypeScript + React + WebRTC            │
+│                                                                     │
+│  📚 HISTORICAL CONTEXT:                                             │
+│  In the year 2025, during the great digital renaissance,           │
+│  Historian Shubham embarked upon a quest to create a               │
+│  revolutionary file transfer system that would forever             │
+│  change how humans share digital artifacts across the              │
+│  global network of connected devices.                              │
+│                                                                     │
+│  🏺 ARTIFACTS DISCOVERED:                                           │
+│  ├─ End-to-end encryption scrolls                                  │
+│  ├─ Peer-to-peer connection tablets                                │
+│  ├─ Real-time transfer hieroglyphs                                 │
+│  └─ Cross-platform compatibility manuscripts                       │
+│                                                                     │
+│  ⏳ PROGRESS THROUGH TIME:                                          │
+│  [████████████████████░░░░] 80% Journey Completed                  │
+│                                                                     │
+│  🎯 PROPHESIED COMPLETION: Second Quarter, Year 2025               │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📊 **HISTORICAL STATISTICS & RECORDS**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=d79921&icon_color=fe8019&text_color=ebdbb2&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10neWOlF&layout=compact&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=d79921&text_color=ebdbb2" width="48%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=10neWOlF&theme=vue&hide_border=true&background=fef3c7&stroke=f97316&ring=f59e0b&fire=dc2626&currStreakNum=92400e&sideNums=92400e&currStreakLabel=f97316&sideLabels=f59e0b&dates=92400e"/>
+<img src="https://streak-stats.demolab.com/?user=10neWOlF&theme=gruvbox&hide_border=true&background=1d2021&stroke=d79921&ring=fe8019&fire=fb4934&currStreakNum=ebdbb2&sideNums=ebdbb2&currStreakLabel=d79921&sideLabels=fe8019&dates=ebdbb2"/>
 
 </div>
 
 ---
 
-## 📞 **RESTAURANT RESERVATIONS**
+## 📞 **TEMPORAL COMMUNICATION CHANNELS**
 
 <div align="center">
 
 ```
-🍽️ MAKE A RESERVATION 🍽️
-═══════════════════════════
+⏰ CROSS-TEMPORAL COMMUNICATION ESTABLISHED ⏰
+══════════════════════════════════════════════
 ```
 
 <a href="mailto:shubhamp2504@gmail.com">
-<img src="https://img.shields.io/badge/📧_RESERVATION-Book_Table-f97316?style=for-the-badge&logo=gmail&logoColor=white&labelColor=92400e&color=f97316"/>
+<img src="https://img.shields.io/badge/📜_SCROLL_MESSAGE-Send_Missive-d79921?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1d2021&color=d79921"/>
 </a>
 <a href="https://x.com/ShubhamPardule">
-<img src="https://img.shields.io/badge/🐦_FOOD_BLOG-Daily_Menu-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=92400e&color=1da1f2"/>
+<img src="https://img.shields.io/badge/🐦_CARRIER_PIGEON-Twitter_Chronicles-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1d2021&color=1da1f2"/>
 </a>
 <a href="https://instagram.com/_.__.shubham.__._">
-<img src="https://img.shields.io/badge/📸_FOOD_PICS-Instagram_Kitchen-e4405f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=92400e&color=e4405f"/>
+<img src="https://img.shields.io/badge/📸_PORTRAIT_GALLERY-Instagram_Archives-e4405f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1d2021&color=e4405f"/>
 </a>
 <a href="https://github.com/10neWOlF">
-<img src="https://img.shields.io/badge/💻_KITCHEN_TOUR-GitHub_Recipes-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=92400e&color=333333"/>
+<img src="https://img.shields.io/badge/💻_CODE_LIBRARY-GitHub_Repository-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=1d2021&color=333333"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=10neWOlF&label=Happy%20Customers&color=f97316&style=for-the-badge&labelColor=92400e" alt="Happy Customers"/>
+<img src="https://komarev.com/ghpvc/?username=10neWOlF&label=Time%20Travelers&color=d79921&style=for-the-badge&labelColor=1d2021" alt="Time Travelers"/>
 
 </div>
 
 ---
 
-## 🍳 **KITCHEN ACTIVITY FEED**
+## ⏳ **TEMPORAL ACTIVITY LOG**
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake.svg">
-  <img alt="daily kitchen activity and meal preparation" src="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake.svg">
+  <img alt="chronological record of coding activities across time" src="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -185,37 +192,38 @@ Docker Containers     ☁️☁️☁️☁️☁️☁️☁️☁️☁️░ 
 
 <div align="center">
 
-### 🍽️ *"Cooking is an art, but coding is the masterpiece"*
+### 📜 *"Those who cannot remember the past are condemned to repeat it"* - George Santayana
 
 <br/>
 
 <details>
-<summary>👨‍🍳 <strong>Chef's Secret Recipes</strong></summary>
+<summary>🔮 <strong>Prophecies & Future Visions</strong></summary>
 
 <br/>
 
-- 🔥 **Currently perfecting:** TransmitFlow - A revolutionary file sharing delicacy
-- 📚 **Learning new techniques:** Advanced AI/ML fusion cooking, Cloud kitchen mastery
-- 🤝 **Looking for sous chefs:** Collaborative cooking partners, innovative flavor developers
-- 🍽️ **Available for:** Custom development dishes, consulting on tech recipes
-- 💬 **Let's discuss:** Cooking methodologies, recipe optimization, kitchen workflows
-- 👨‍🍳 **Chef's secret:** I code better with coffee brewing and jazz music! ☕🎵
+- ⏰ **Currently documenting:** TransmitFlow - A future-shaping file transfer chronicle
+- 📚 **Studying ancient texts:** Advanced AI/ML scrolls, Microservices architecture tablets  
+- 🤝 **Seeking fellow historians:** Time-traveling collaborators, future tech prophets
+- 🔮 **Available for:** Historical code consultations, temporal debugging sessions
+- 💬 **Let's discuss:** Ancient coding wisdom, future technology predictions, time paradoxes
+- ⚡ **Time traveler's secret:** I code best while listening to classical music from all eras! 🎼⏰
 
 </details>
 
 <br/>
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║  🍳 "A recipe has no soul. You, as the cook, must bring soul      ║
-║      to the recipe." - Thomas Keller                              ║
-║                                                                   ║
-║  👨‍🍳 Chef Shubham's Kitchen is always open for collaboration!     ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║  ⏰ "The future belongs to those who prepare for it in the present   ║
+║      while learning from the past." - Time Traveler's Wisdom         ║
+║                                                                      ║
+║  🕰️ Historian Shubham continues his journey across time, leaving     ║
+║     a legacy of innovative code for future generations to discover!  ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,22&height=120&section=footer&text=🍽️%20BON%20APPÉTIT!%20🍽️&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,12,20,30&height=120&section=footer&text=⏰%20TO%20BE%20CONTINUED...%20⏰&fontSize=20&fontColor=ffffff&animation=blinking"/>
 
 </div>

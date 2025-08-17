@@ -1,185 +1,80 @@
+<!-- MINIMALIST PROFESSIONAL THEME -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SHUBHAM%20PARDULE&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32"/>
+# Shubham Pardule
 
-<br/>
+**Full-Stack Developer • AI/ML Enthusiast • Cloud Architect**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🚀+Full-Stack+Developer+%26+Tech+Explorer;🌟+Building+Tomorrow's+Digital+Solutions;💫+AI%2FML+Enthusiast+%7C+Cloud+Architect;🛸+Currently+Crafting+TransmitFlow;✨+Maharashtra%2C+India+🇮🇳&font=Poppins&center=true&width=600&height=100&color=a78bfa&vCenter=true&size=20&pause=1000)](https://git.io/typing-svg)
+**📍 Maharashtra, India**
 
-<br/>
+---
 
-<div>
-  <img src="https://img.shields.io/badge/🌍_Location-Maharashtra,_India-blueviolet?style=for-the-badge&logo=location&logoColor=white&labelColor=8b5cf6"/>
-  <img src="https://img.shields.io/badge/💼_Role-Full--Stack_Developer-blue?style=for-the-badge&logo=code&logoColor=white&labelColor=3b82f6"/>
-  <img src="https://img.shields.io/badge/🎯_Focus-AI/ML_+_Cloud-purple?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=a855f7"/>
-</div>
+*Building tomorrow's digital solutions with passion and precision*
 
-<br/>
-
-> *"The universe is not only queerer than we suppose, but queerer than we can suppose."*  
-> **– J.B.S. Haldane**
+[![Email](https://img.shields.io/badge/Email-shubhamp2504%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhamp2504@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40ShubhamPardule-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ShubhamPardule)
+[![Instagram](https://img.shields.io/badge/Instagram-%40__.shubham.__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_.__.shubham.__._)
 
 </div>
 
 ---
 
-## <div align="center">🌌 About This Digital Explorer</div>
+## About
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 15px; margin-left: 20px;"/>
+I'm a passionate full-stack developer specializing in modern web technologies and cloud solutions. Currently focused on building **TransmitFlow** - a secure P2P file transfer platform that prioritizes privacy and performance.
 
-```yaml
-name: "Shubham Pardule"
-located_in: "Maharashtra, India"
-current_mission: "Building TransmitFlow - Secure P2P File Transfer"
-education: "Computer Science & Engineering"
+My journey in tech spans across frontend frameworks, backend systems, and cloud infrastructure, with a growing interest in AI/ML applications.
 
-interests:
-  - "Full-Stack Web Development"
-  - "Artificial Intelligence & Machine Learning" 
-  - "Cloud Architecture & DevOps"
-  - "Open Source Contributions"
-  - "Problem Solving & Innovation"
+---
 
-life_philosophy: "Code with purpose, innovate with passion"
-favorite_quote: "Every expert was once a beginner"
+## Current Focus
+
+🚀 **TransmitFlow** - Secure P2P File Transfer Platform  
+⚡ Built with TypeScript, React, Node.js & WebRTC  
+🎯 End-to-end encryption, real-time transfer analytics  
+
+---
+
+## Technology Stack
+
+**Frontend**
+```
+TypeScript • JavaScript • React • Next.js • HTML5 • CSS3 • Tailwind
 ```
 
-<br clear="right"/>
-
----
-
-## <div align="center">🛠️ Technology Galaxy</div>
-
-<div align="center">
-
-### Frontend Constellation
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass" />
-
-### Backend Universe  
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,fastapi,sqlite,mongodb,postgresql" />
-
-### Cloud & DevOps Nebula
-<img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,kubernetes,github,git,linux" />
-
-### Development Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion,vercel,netlify" />
-
-</div>
-
----
-
-## <div align="center">📊 Cosmic Analytics</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=e5e7eb"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10neWOlF&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e5e7eb"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.vercel.app?user=10neWOlF&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=f59e0b&fire=f59e0b&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=e5e7eb"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=10neWOlF&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=f59e0b&point=e5e7eb&area=true&area_color=a78bfa"/>
-
-</div>
-
----
-
-## <div align="center">🚀 Featured Project: TransmitFlow</div>
-
-<div align="center">
-
+**Backend**  
 ```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                           🛸 TRANSMITFLOW                              ┃
-┃                    Secure P2P File Transfer Platform                   ┃
-┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
-│                                                                       │
-│  🔐 End-to-End Encryption      🌍 Cross-Platform Support              │
-│  ⚡ Real-Time File Sharing     📱 Progressive Web App                 │  
-│  🛡️ Privacy-First Design       📊 Transfer Analytics                   │
-│  🔗 Direct Peer Connections    🎯 Zero Server Storage                  │
-│                                                                       │
-│  Stack: TypeScript • React • Node.js • WebRTC • Socket.io            │
-│                                                                       │
-└───────────────────────────────────────────────────────────────────────┘
+Python • Django • Node.js • Express • SQLite • MongoDB • PostgreSQL
 ```
 
-**🔴 Status:** Active Development | **🚀 Launch:** Q2 2025
+**Cloud & DevOps**
+```
+Google Cloud • AWS • Firebase • Docker • GitHub Actions • Linux
+```
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10neWOlF&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=10neWOlF&theme=default&hide_border=true)
 
 </div>
 
 ---
 
-## <div align="center">🌟 GitHub Journey</div>
+## Let's Connect
+
+Feel free to reach out if you'd like to collaborate on interesting projects or discuss technology, startups, or innovation.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=10neWOlF&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
----
-
-## <div align="center">🌐 Connect Across The Universe</div>
-
-<div align="center">
-
-<a href="mailto:shubhamp2504@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
-</a>
-<a href="https://x.com/ShubhamPardule" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
-</a>
-<a href="https://instagram.com/_.__.shubham.__._" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
-</a>
-<a href="https://github.com/10neWOlF" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
-</a>
-
-<br/><br/>
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=10neWOlF&label=Cosmic%20Visitors&color=a78bfa&style=for-the-badge" alt="Profile Views"/>
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌌 *"In the vast cosmos of code, every bug is a star waiting to shine brighter"*
-
-<br/>
-
-<details>
-<summary>💫 <strong>Quick Stats</strong></summary>
-
-<br/>
-
-- 🔭 **Currently working on:** TransmitFlow - Revolutionary P2P file transfer
-- 🌱 **Currently learning:** Advanced AI/ML algorithms, Microservices architecture
-- 👯 **Looking to collaborate on:** Open source projects, AI/ML applications
-- 🤔 **Looking for help with:** Scaling distributed systems
-- 💬 **Ask me about:** Full-stack development, Cloud architecture, AI/ML
-- ⚡ **Fun fact:** I debug faster when listening to lo-fi space ambient music 🎵
-
-</details>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+**"Code is poetry written for machines to understand and humans to admire"**
 
 </div>

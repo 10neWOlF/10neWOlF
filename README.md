@@ -89,20 +89,14 @@
   <text x="40" y="750" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1F2937">Connect</text>
   
   <!-- Connect buttons -->
-  <a href="https://linkedin.com/in/10newolf">
-    <rect x="40" y="770" width="80" height="28" rx="14" fill="#0A66C2"/>
-    <text x="80" y="788" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">LinkedIn</text>
-  </a>
+  <rect x="40" y="770" width="80" height="28" rx="14" fill="#0A66C2"/>
+  <text x="80" y="788" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">LinkedIn</text>
   
-  <a href="mailto:contact@10newolf.dev">
-    <rect x="130" y="770" width="60" height="28" rx="14" fill="#EA4335"/>
-    <text x="160" y="788" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">Email</text>
-  </a>
+  <rect x="130" y="770" width="60" height="28" rx="14" fill="#EA4335"/>
+  <text x="160" y="788" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">Email</text>
   
-  <a href="https://10newolf.dev">
-    <rect x="200" y="770" width="80" height="28" rx="14" fill="#212529"/>
-    <text x="240" y="788" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">Portfolio</text>
-  </a>
+  <rect x="200" y="770" width="80" height="28" rx="14" fill="#212529"/>
+  <text x="240" y="788" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">Portfolio</text>
   
   <!-- Footer -->
   <line x1="40" y1="820" x2="760" y2="820" stroke="#E5E5E5" stroke-width="1"/>

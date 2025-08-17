@@ -1,13 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=10neWOlF&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+# 🎮 **10neWOlF**
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=1500&color=00FF41&center=true&vCenter=true&width=500&height=60&lines=FULL-STACK+DEVELOPER;BUILDING+TRANSMITFLOW;MAHARASHTRA%2C+INDIA;STATUS%3A+CODING..." alt="Typing SVG" />
+**Full-Stack Developer** • **Building TransmitFlow** • **Maharashtra, India**
 
-<div>
-<img src="https://img.shields.io/badge/🎮_STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000"/>
-<img src="https://img.shields.io/badge/🏆_LEVEL-SENIOR_DEV-ff6b00?style=for-the-badge&labelColor=000"/>
-</div>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat&labelColor=000"/>
+<img src="https://img.shields.io/badge/LEVEL-SENIOR_DEV-ff6b00?style=flat&labelColor=000"/>
 
 </div>
 
@@ -34,25 +32,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=ffaa00&text_color=ffffff&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=10neWOlF&theme=dark&hide_border=true&background=000000&stroke=00ff41&ring=ffaa00&fire=ff6b00&currStreakNum=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=ffaa00&text_color=ffffff&count_private=true" width="45%" height="150"/>
+<img src="https://streak-stats.demolab.com/?user=10neWOlF&theme=dark&hide_border=true&background=000000&stroke=00ff41&ring=ffaa00&fire=ff6b00&currStreakNum=ffffff" width="45%" height="150"/>
 
 </div>
 
 ---
 
-## 🎯 **MAIN QUEST: TRANSMITFLOW**
-
 <div align="center">
 
-```
-┌─────────────── ACTIVE PROJECT ───────────────┐
-│  🚀 TransmitFlow - P2P File Transfer         │
-│  📊 Progress: ████████░░ 65% Complete        │
-│  🔧 Tech: TypeScript, React, WebRTC, Node.js │
-│  🎯 Goal: Secure & Fast File Sharing         │
-└───────────────────────────────────────────────┘
-```
+**🚀 TransmitFlow** - P2P File Transfer Project  
+*TypeScript • React • WebRTC • Node.js*
 
 </div>
 
@@ -75,13 +65,5 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=10neWOlF&label=VISITORS&color=00ff41&style=flat-square&labelColor=000000"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer&animation=fadeIn"/>
 
 </div>

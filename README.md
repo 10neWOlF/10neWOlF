@@ -1,85 +1,115 @@
-<table>
-<tr>
-<td bgcolor="#FFFFFF" style="padding: 40px; color: #333333;">
-
-<div align="center">
-
-# **10neWOlF**
-
-![Status](https://img.shields.io/badge/Status-Online-28A745?style=flat&labelColor=FFFFFF&color=28A745)
-![Role](https://img.shields.io/badge/Role-Full--Stack%20Developer-007BFF?style=flat&labelColor=FFFFFF&color=007BFF)
-![Mode](https://img.shields.io/badge/Mode-Building-DC3545?style=flat&labelColor=FFFFFF&color=DC3545)
-
-</div>
-
----
-
-### **About**
-
-Full-Stack Developer crafting digital experiences through clean architecture and innovative solutions. Currently architecting neural commerce platforms while exploring AI integration.
-
-**Focus Areas:** React • Node.js • Cloud Solutions • AI Integration
-
----
-
-### **Tech Stack**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=FFFFFF)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=FFFFFF)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&labelColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=FFFFFF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=FFFFFF)
-
----
-
-### **Featured Projects**
-
-[![Neural Commerce](https://img.shields.io/badge/Neural_Commerce-Live_Production-28A745?style=flat&logo=shopify&logoColor=white&labelColor=FFFFFF)](https://github.com/10neWOlF)  
-**AI-powered e-commerce platform** — Revolutionary shopping experience with machine learning personalization
-
-[![Data Nexus](https://img.shields.io/badge/Data_Nexus-Active_Development-FFC107?style=flat&logo=chartdotjs&logoColor=black&labelColor=FFFFFF)](https://github.com/10neWOlF)  
-**Real-time analytics dashboard** — Beautiful data visualization with predictive insights
-
-[![DevForge](https://img.shields.io/badge/DevForge-Beta_Testing-6F42C1?style=flat&logo=tools&logoColor=white&labelColor=FFFFFF)](https://github.com/10neWOlF)  
-**Developer productivity suite** — All-in-one toolkit for modern development workflows
-
----
-
-### **GitHub Stats**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=212529&text_color=495057&icon_color=007BFF" height="160" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=10neWOlF&theme=default&hide_border=true&bg_color=FFFFFF" height="160" />
-
-</div>
-
----
-
-### **Connect**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=FFFFFF)](https://linkedin.com/in/10newolf)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=FFFFFF)](mailto:contact@10newolf.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-212529?style=flat&logo=firefox&logoColor=white&labelColor=FFFFFF)](https://10newolf.dev)
-
-</div>
-
----
-
-<div align="center">
-
-*"Building tomorrow's digital experiences, one commit at a time"*
-
-![Views](https://komarev.com/ghpvc/?username=10neWOlF&color=007BFF&style=flat&label=Profile%20Views&labelColor=FFFFFF)
-
-</div>
-
-</td>
-</tr>
-</table>
+<svg width="800" height="900" xmlns="http://www.w3.org/2000/svg">
+  <!-- White Background -->
+  <rect width="800" height="900" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="2" rx="8"/>
+  
+  <!-- Header -->
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#1F2937">10neWOlF</text>
+  
+  <!-- Status Badges -->
+  <rect x="200" y="80" width="80" height="24" rx="12" fill="#28A745"/>
+  <text x="240" y="96" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white" font-weight="bold">ONLINE</text>
+  
+  <rect x="290" y="80" width="140" height="24" rx="12" fill="#007BFF"/>
+  <text x="360" y="96" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white" font-weight="bold">FULL-STACK DEV</text>
+  
+  <rect x="440" y="80" width="80" height="24" rx="12" fill="#DC3545"/>
+  <text x="480" y="96" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white" font-weight="bold">BUILDING</text>
+  
+  <!-- Section: About -->
+  <line x1="40" y1="140" x2="760" y2="140" stroke="#E5E5E5" stroke-width="1"/>
+  <text x="40" y="170" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1F2937">About</text>
+  
+  <text x="40" y="200" font-family="Arial, sans-serif" font-size="14" fill="#374151">Full-Stack Developer crafting digital experiences through clean architecture</text>
+  <text x="40" y="218" font-family="Arial, sans-serif" font-size="14" fill="#374151">and innovative solutions. Currently architecting neural commerce platforms</text>
+  <text x="40" y="236" font-family="Arial, sans-serif" font-size="14" fill="#374151">while exploring AI integration.</text>
+  
+  <text x="40" y="265" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">Focus Areas:</text>
+  <text x="140" y="265" font-family="Arial, sans-serif" font-size="14" fill="#374151">React • Node.js • Cloud Solutions • AI Integration</text>
+  
+  <!-- Section: Tech Stack -->
+  <line x1="40" y1="290" x2="760" y2="290" stroke="#E5E5E5" stroke-width="1"/>
+  <text x="40" y="320" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1F2937">Tech Stack</text>
+  
+  <!-- Tech badges row 1 -->
+  <rect x="40" y="340" width="90" height="28" rx="14" fill="#F7DF1E"/>
+  <text x="85" y="358" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="black" font-weight="bold">JavaScript</text>
+  
+  <rect x="140" y="340" width="70" height="28" rx="14" fill="#3776AB"/>
+  <text x="175" y="358" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">Python</text>
+  
+  <rect x="220" y="340" width="60" height="28" rx="14" fill="#61DAFB"/>
+  <text x="250" y="358" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="black" font-weight="bold">React</text>
+  
+  <rect x="290" y="340" width="70" height="28" rx="14" fill="#339933"/>
+  <text x="325" y="358" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">Node.js</text>
+  
+  <!-- Tech badges row 2 -->
+  <rect x="40" y="378" width="70" height="28" rx="14" fill="#2496ED"/>
+  <text x="75" y="396" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">Docker</text>
+  
+  <rect x="120" y="378" width="60" height="28" rx="14" fill="#232F3E"/>
+  <text x="150" y="396" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">AWS</text>
+  
+  <rect x="190" y="378" width="90" height="28" rx="14" fill="#3178C6"/>
+  <text x="235" y="396" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">TypeScript</text>
+  
+  <rect x="290" y="378" width="90" height="28" rx="14" fill="#326CE5"/>
+  <text x="335" y="396" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">Kubernetes</text>
+  
+  <!-- Section: Featured Projects -->
+  <line x1="40" y1="430" x2="760" y2="430" stroke="#E5E5E5" stroke-width="1"/>
+  <text x="40" y="460" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1F2937">Featured Projects</text>
+  
+  <!-- Project 1 -->
+  <rect x="40" y="480" width="140" height="28" rx="14" fill="#28A745"/>
+  <text x="110" y="498" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">Neural Commerce</text>
+  <text x="190" y="498" font-family="Arial, sans-serif" font-size="12" fill="#6B7280">LIVE PRODUCTION</text>
+  
+  <text x="40" y="520" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">AI-powered e-commerce platform</text>
+  <text x="40" y="538" font-family="Arial, sans-serif" font-size="13" fill="#6B7280">Revolutionary shopping experience with machine learning personalization</text>
+  
+  <!-- Project 2 -->
+  <rect x="40" y="558" width="100" height="28" rx="14" fill="#FFC107"/>
+  <text x="90" y="576" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="black" font-weight="bold">Data Nexus</text>
+  <text x="150" y="576" font-family="Arial, sans-serif" font-size="12" fill="#6B7280">ACTIVE DEVELOPMENT</text>
+  
+  <text x="40" y="598" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">Real-time analytics dashboard</text>
+  <text x="40" y="616" font-family="Arial, sans-serif" font-size="13" fill="#6B7280">Beautiful data visualization with predictive insights</text>
+  
+  <!-- Project 3 -->
+  <rect x="40" y="636" width="80" height="28" rx="14" fill="#6F42C1"/>
+  <text x="80" y="654" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">DevForge</text>
+  <text x="130" y="654" font-family="Arial, sans-serif" font-size="12" fill="#6B7280">BETA TESTING</text>
+  
+  <text x="40" y="676" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">Developer productivity suite</text>
+  <text x="40" y="694" font-family="Arial, sans-serif" font-size="13" fill="#6B7280">All-in-one toolkit for modern development workflows</text>
+  
+  <!-- Section: Connect -->
+  <line x1="40" y1="720" x2="760" y2="720" stroke="#E5E5E5" stroke-width="1"/>
+  <text x="40" y="750" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1F2937">Connect</text>
+  
+  <!-- Connect buttons -->
+  <a href="https://linkedin.com/in/10newolf">
+    <rect x="40" y="770" width="80" height="28" rx="14" fill="#0A66C2"/>
+    <text x="80" y="788" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">LinkedIn</text>
+  </a>
+  
+  <a href="mailto:contact@10newolf.dev">
+    <rect x="130" y="770" width="60" height="28" rx="14" fill="#EA4335"/>
+    <text x="160" y="788" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">Email</text>
+  </a>
+  
+  <a href="https://10newolf.dev">
+    <rect x="200" y="770" width="80" height="28" rx="14" fill="#212529"/>
+    <text x="240" y="788" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">Portfolio</text>
+  </a>
+  
+  <!-- Footer -->
+  <line x1="40" y1="820" x2="760" y2="820" stroke="#E5E5E5" stroke-width="1"/>
+  <text x="400" y="850" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6B7280" font-style="italic">"Building tomorrow's digital experiences, one commit at a time"</text>
+  
+  <!-- Decorative elements -->
+  <circle cx="720" cy="60" r="8" fill="#00D4AA" opacity="0.3"/>
+  <circle cx="740" cy="80" r="6" fill="#FF6B6B" opacity="0.3"/>
+  <circle cx="700" cy="40" r="4" fill="#6366F1" opacity="0.3"/>
+</svg>

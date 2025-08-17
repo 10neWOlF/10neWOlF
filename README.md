@@ -1,171 +1,174 @@
-<!-- MODERN GRADIENT GLASSMORPHISM THEME -->
+<!-- NATURE FOREST THEME -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21,27&height=200&section=header&text=Shubham%20Pardule&fontSize=50&fontColor=ffffff&animation=scaleIn&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20Innovation%20Architect&descSize=16&descAlign=50&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=180&section=header&text=🌲%20Shubham%20Pardule%20🌲&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Growing%20Code%20Like%20Nature%20Grows%20Trees&descSize=16&descAlign=50&descAlignY=55"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✨+Crafting+Digital+Experiences;🌟+Building+Tomorrow's+Technology;💡+AI%2FML+%26+Cloud+Innovation;🚀+TransmitFlow+Development;🎯+TypeScript+%26+React+Specialist&font=SF+Pro+Display&center=true&width=650&height=70&color=6366f1&vCenter=true&size=22&pause=1200)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌱+Cultivating+Digital+Solutions;🌿+Full-Stack+Developer+%26+Tech+Gardener;🍃+AI%2FML+Explorer+%7C+Cloud+Architect;🌳+Growing+TransmitFlow+Project;🌾+Branching+Into+Innovation&font=Georgia&center=true&width=600&height=80&color=22c55e&vCenter=true&size=20&pause=1200)](https://git.io/typing-svg)
 
 <br/>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/🎯_Focus-AI%2FML_Research-6366f1?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=1e293b&color=6366f1"/>
-  <img src="https://img.shields.io/badge/📍_Based_in-Maharashtra,_India-10b981?style=for-the-badge&logo=location&logoColor=white&labelColor=1e293b&color=10b981"/>
-  <img src="https://img.shields.io/badge/🚀_Building-TransmitFlow-f59e0b?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1e293b&color=f59e0b"/>
+<div>
+<img src="https://img.shields.io/badge/🌍_Rooted_in-Maharashtra,_India-22c55e?style=for-the-badge&logo=leaf&logoColor=white&labelColor=064e3b"/>
+<img src="https://img.shields.io/badge/🌱_Growing-Full--Stack_Solutions-84cc16?style=for-the-badge&logo=seedling&logoColor=white&labelColor=365314"/>
+<img src="https://img.shields.io/badge/🍃_Cultivating-AI%2FML_Innovation-10b981?style=for-the-badge&logo=tree&logoColor=white&labelColor=064e3b"/>
 </div>
 
 <br/>
 
-> *"Innovation distinguishes between a leader and a follower."* – Steve Jobs
+> *"In every walk with nature, one receives far more than they seek."*  
+> **– John Muir**
 
 </div>
 
 ---
 
-## <div align="center">🌟 About This Creative Mind</div>
+## <div align="center">🌲 About This Digital Gardener</div>
 
-<img align="right" alt="Developer Animation" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(99, 102, 241, 0.2);"/>
+<img align="right" alt="Nature Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 15px; border: 3px solid #22c55e; box-shadow: 0 8px 25px rgba(34, 197, 94, 0.3);"/>
 
 ```yaml
-developer:
+digital_gardener:
   name: "Shubham Pardule"
-  location: "Maharashtra, India 🇮🇳"
-  role: "Full-Stack Developer & Tech Innovator"
+  habitat: "Maharashtra, India 🇮🇳"
+  species: "Full-Stack Developer & Tech Cultivator"
   
-current_focus:
-  project: "TransmitFlow - Next-gen P2P File Transfer"
-  technologies: ["TypeScript", "React", "WebRTC", "Node.js"]
-  stage: "Active Development Phase"
-  
-expertise:
-  frontend: ["React", "Next.js", "TypeScript", "Modern CSS"]
-  backend: ["Python", "Django", "Node.js", "REST APIs"]
-  cloud: ["Google Cloud", "AWS", "Firebase", "Docker"]
-  interests: ["AI/ML", "Cloud Architecture", "Open Source"]
-  
-philosophy: "Building technology that makes a difference"
-learning: "Always exploring the frontier of innovation"
+growing_project:
+  seedling: "TransmitFlow - P2P File Transfer Ecosystem"
+  nutrients: ["TypeScript", "React", "WebRTC", "Node.js"]
+  growth_stage: "Flourishing Development"
+  expected_harvest: "Q2 2025"
+
+cultivation_areas:
+  frontend_garden: ["React", "Next.js", "TypeScript", "Modern CSS"]
+  backend_forest: ["Python", "Django", "Node.js", "APIs"]
+  cloud_canopy: ["Google Cloud", "AWS", "Firebase", "Docker"]
+  research_grove: ["AI/ML", "Cloud Architecture", "Open Source"]
+
+philosophy: "Code grows best when nurtured with patience and passion"
+life_cycle: "Continuously branching into new learning territories"
 ```
 
 <br clear="right"/>
 
 ---
 
-## <div align="center">💫 Technology Universe</div>
+## <div align="center">🌿 Technology Ecosystem</div>
 
 <div align="center">
 
-### Frontend Constellation
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 15px; margin: 10px 0;">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass&theme=dark" />
-</div>
+### 🌱 Frontend Garden
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=22c55e"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=22c55e"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=22c55e"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=22c55e"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=22c55e"/>
 
-### Backend Galaxy
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 15px; margin: 10px 0;">
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,fastapi,sqlite,mongodb,postgresql&theme=dark" />
-</div>
+### 🌳 Backend Forest
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=84cc16"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=84cc16"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=84cc16"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=84cc16"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=84cc16"/>
 
-### Cloud & DevOps Nebula
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px; border-radius: 15px; margin: 10px 0;">
-<img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,kubernetes,github,git,linux&theme=dark" />
-</div>
+### ☁️ Cloud Canopy
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=10b981"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=10b981"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=10b981"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=10b981"/>
 
-### Development Tools Spectrum
-<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 15px; border-radius: 15px; margin: 10px 0;">
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion,vim,ubuntu,bash,powershell&theme=dark" />
-</div>
+### 🛠️ Gardening Tools
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=059669"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=059669"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=059669"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=059669"/>
 
 </div>
 
 ---
 
-## <div align="center">📈 Development Metrics</div>
+## <div align="center">📊 Growth Metrics</div>
 
 <div align="center">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-
-<img height="190px" src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=10b981&text_color=e2e8f0&count_private=true&include_all_commits=true" style="border-radius: 15px;"/>
-
-<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10neWOlF&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0" style="border-radius: 15px;"/>
-
-</div>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=10neWOlF&theme=transparent&hide_border=true&background=0d1117&stroke=6366f1&ring=10b981&fire=f59e0b&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=6366f1&sideLabels=10b981&dates=e2e8f0" style="border-radius: 15px;"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=great-gatsby&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=84cc16&text_color=e5e7eb&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10neWOlF&layout=compact&langs_count=8&theme=great-gatsby&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=e5e7eb"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=10neWOlF&theme=github-compact&hide_border=true&bg_color=0d1117&color=6366f1&line=10b981&point=f59e0b&area=true&area_color=6366f1" style="border-radius: 15px;"/>
+<img src="https://streak-stats.demolab.com?user=10neWOlF&theme=great-gatsby&hide_border=true&background=0d1117&stroke=22c55e&ring=84cc16&fire=f59e0b&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=22c55e&sideLabels=84cc16&dates=e5e7eb"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=10neWOlF&theme=github-compact&hide_border=true&bg_color=0d1117&color=22c55e&line=84cc16&point=f59e0b&area=true&area_color=22c55e"/>
 
 </div>
 
 ---
 
-## <div align="center">🚀 Featured Innovation: TransmitFlow</div>
+## <div align="center">🌱 Featured Project: TransmitFlow Seedling</div>
 
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 20px; margin: 20px 0;">
+<div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                        🌟 TRANSMITFLOW 🌟                          │
-│                 Revolutionary P2P File Transfer                    │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  🔐 Military-Grade Encryption    📱 Cross-Platform Support          │
-│  ⚡ Lightning-Fast Transfers     🌍 Global Accessibility            │
-│  🛡️ Zero Server Storage          📊 Real-Time Analytics            │
-│  🔗 Direct Peer Connections     🎯 Privacy-First Philosophy         │
-│                                                                     │
-│  Tech Stack: TypeScript • React • Node.js • WebRTC • Socket.io     │
-│                                                                     │
-│  Progress: ████████████░░░░░░░░ 65% Complete                      │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲
+🌿                                                               🌿
+🌿                     🌱 TRANSMITFLOW GROVE 🌱                  🌿  
+🌿                  Cultivating Secure P2P Transfers            🌿
+🌿                                                               🌿
+🌿  🌿 End-to-End Encryption Roots    🍃 Cross-Platform Leaves   🌿
+🌿  🌳 Real-Time Transfer Trunk        🌸 Progressive Web Bloom   🌿  
+🌿  🍂 Privacy-First Forest Floor     🌰 Zero Storage Seeds      🌿
+🌿  🌾 Direct Connection Pathways     📊 Analytics Ecosystem     🌿
+🌿                                                               🌿
+🌿  Nutrient Stack: TypeScript • React • WebRTC • Node.js       🌿
+🌿                                                               🌿
+🌿  Growth Progress: 🌱🌱🌱🌱🌱🌱🌱🌿🍃🌿🌳 65% Mature          🌿
+🌿                                                               🌿
+🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲
 ```
 
-**🎯 Status:** Active Development | **🚀 Expected Launch:** Q2 2025
+**🌱 Status:** Growing Strong | **🌳 Expected Maturity:** Q2 2025
 
 </div>
 
 ---
 
-## <div align="center">🌐 Connect & Collaborate</div>
+## <div align="center">🍃 Connect Through Nature's Network</div>
 
 <div align="center">
 
 <a href="mailto:shubhamp2504@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-Connect-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b&color=ea4335&logoWidth=25" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/🌸_Email-Pollinate_Ideas-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=064e3b"/>
 </a>
 <a href="https://x.com/ShubhamPardule" target="_blank">
-  <img src="https://img.shields.io/badge/🐦_Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1e293b&color=1da1f2&logoWidth=25" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/🐦_Twitter-Birds_of_Feather-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=064e3b"/>
 </a>
 <a href="https://instagram.com/_.__.shubham.__._" target="_blank">
-  <img src="https://img.shields.io/badge/📸_Instagram-Connect-e4405f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e293b&color=e4405f&logoWidth=25" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/📷_Instagram-Nature_Shots-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=064e3b"/>
 </a>
 <a href="https://github.com/10neWOlF" target="_blank">
-  <img src="https://img.shields.io/badge/💻_GitHub-Collaborate-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b&color=333333&logoWidth=25" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/🌿_GitHub-Forest_Repo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=064e3b"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=10neWOlF&label=Profile%20Views&color=6366f1&style=for-the-badge&labelColor=1e293b" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=10neWOlF&label=Forest%20Visitors&color=22c55e&style=for-the-badge&labelColor=064e3b" alt="Forest Visitors"/>
 
 </div>
 
 ---
 
-## <div align="center">📊 Contribution Activity</div>
+## <div align="center">🌳 Contribution Forest</div>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake.svg" style="border-radius: 15px;"/>
+  <img alt="snake weaving through forest contributions" src="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -174,26 +177,26 @@ learning: "Always exploring the frontier of innovation"
 
 <div align="center">
 
-### 💫 *"The future belongs to those who believe in the beauty of their dreams"*
+### 🌿 *"The best time to plant a tree was 20 years ago. The second best time is now."*
 
 <br/>
 
 <details>
-<summary>🎯 <strong>Quick Insights</strong></summary>
+<summary>🌱 <strong>Ecosystem Insights</strong></summary>
 
 <br/>
 
-- 🔭 **Currently working on:** TransmitFlow - Next-generation P2P file transfer platform
-- 🌱 **Currently exploring:** Advanced AI/ML patterns, Microservices architecture, Web3 technologies  
-- 👯 **Open to collaborate on:** Innovative open source projects, AI/ML research, Cloud solutions
-- 🤝 **Looking for help with:** Scaling distributed systems, Advanced cryptography implementations
-- 💬 **Ask me about:** Full-stack development, Cloud architecture, TypeScript best practices
-- ⚡ **Fun fact:** I solve complex problems best with a cup of chai and ambient music 🎵☕
+- 🌳 **Currently growing:** TransmitFlow - Revolutionary P2P file transfer ecosystem
+- 🌱 **Learning seedlings:** Advanced AI/ML cultivation, Microservices forest architecture  
+- 🤝 **Collaboration grove:** Open source conservation, AI/ML research partnerships
+- 🌿 **Seeking help with:** Scaling distributed root systems, Advanced encryption techniques
+- 💬 **Discuss with me:** Sustainable coding practices, Cloud forest architecture, Green tech
+- 🦋 **Nature fact:** I code best surrounded by plants and nature sounds 🎵🌿
 
 </details>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21,27&height=120&section=footer&animation=scaleIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer&animation=fadeIn"/>
 
 </div>

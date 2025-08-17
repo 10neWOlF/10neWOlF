@@ -18,7 +18,7 @@ Focused on React, TypeScript, Node.js, and Python
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=minimal&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=10neWOlF&theme=minimal&hide_border=true" height="150"/>
+<img src="https://streak-stats.demolab.com/?user=10neWOlF&theme=minimal&hide_border=true" height="150"/>
 
 </div>
 

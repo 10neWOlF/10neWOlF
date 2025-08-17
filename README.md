@@ -1,192 +1,182 @@
-<!-- COMIC BOOK SUPERHERO THEME -->
+<!-- RECIPE COOKING CHEF THEME -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,12,15,20&height=200&section=header&text=⚡%20THE%20CODE%20CRUSADER%20⚡&fontSize=45&fontColor=ffffff&animation=blinking&fontAlign=50&fontAlignY=40&desc=Shubham%20Pardule%20•%20Full-Stack%20Hero&descSize=18&descAlign=50&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,22&height=180&section=header&text=👨‍🍳%20CHEF%20SHUBHAM%20👨‍🍳&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Master%20of%20Code%20Cuisine&descSize=16&descAlign=50&descAlignY=55"/>
 
 ```
-    ██████╗ ███████╗ ██████╗ ██╗  ██╗
-   ██╔════╝ ██╔════╝██╔═══██╗██║  ██║
-   ██║  ███╗█████╗  ██║   ██║███████║
-   ██║   ██║██╔══╝  ██║   ██║██╔══██║
-   ╚██████╔╝███████╗╚██████╔╝██║  ██║
-    ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
-      
-    🦸‍♂️ DEFENDER OF CLEAN CODE 🦸‍♂️
+    ██████╗██╗  ██╗███████╗███████╗    ██████╗  █████╗ ██████╗ ██████╗ ██╗   ██╗██╗     ███████╗
+   ██╔════╝██║  ██║██╔════╝██╔════╝    ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║   ██║██║     ██╔════╝
+   ██║     ███████║█████╗  █████╗      ██████╔╝███████║██████╔╝██║  ██║██║   ██║██║     █████╗  
+   ██║     ██╔══██║██╔══╝  ██╔══╝      ██╔═══╝ ██╔══██║██╔══██╗██║  ██║██║   ██║██║     ██╔══╝  
+   ╚██████╗██║  ██║███████╗██║         ██║     ██║  ██║██║  ██║██████╔╝╚██████╔╝███████╗███████╗
+    ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝         ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝╚══════╝
+                            
+                            🍳 FULL-STACK CULINARY ARTIST 🍳
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=900&size=24&duration=2000&pause=1200&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=100&lines=⚡+ORIGIN+STORY+LOADING...;💥+FULL-STACK+POWERS+ACTIVATED!;🚀+TRANSMITFLOW+MISSION+ENGAGED;🌟+SAVING+THE+WORLD+WITH+CODE!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=1200&color=F97316&center=true&vCenter=true&multiline=true&width=700&height=90&lines=👨‍🍳+Preparing+Fresh+Code+Daily;🔥+Cooking+with+TypeScript+%26+React;🍽️+Serving+TransmitFlow+Project;⭐+Michelin-Star+Developer!)
 
 </div>
 
 ---
 
-## 🦸‍♂️ **HERO PROFILE**
+## 📋 **CHEF'S PROFILE**
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
-║                        🌟 HERO DATABASE 🌟                       ║
+║                        👨‍🍳 CHEF'S BIO 👨‍🍳                         ║
 ╠═══════════════════════════════════════════════════════════════════╣
 ║                                                                   ║
-║  REAL NAME: Shubham Pardule                                       ║
-║  HERO ALIAS: The Code Crusader                                    ║
-║  ORIGIN: Maharashtra, India 🇮🇳                                   ║
-║  FIRST APPEARANCE: Early 2020s                                    ║
-║  ALIGNMENT: Chaotic Good (Breaks rules to build better code)      ║
-║  TEAM AFFILIATION: Full-Stack Avengers                            ║
+║  NAME: Chef Shubham Pardule                                       ║
+║  RESTAURANT: Full-Stack Kitchen                                   ║
+║  LOCATION: Maharashtra, India 🇮🇳                                 ║
+║  SPECIALITY: Code Fusion Cuisine                                  ║
+║  EXPERIENCE: Master Chef Level                                    ║
+║  SIGNATURE DISH: TransmitFlow P2P Delicacy                        ║
 ║                                                                   ║
-║  💪 SUPERPOWERS:                                                   ║
-║  ├─ TypeScript Mastery (Level: Expert)                           ║
-║  ├─ React Component Manipulation                                  ║
-║  ├─ Python Snake Charming                                        ║
-║  ├─ Cloud Architecture Flying                                     ║
-║  └─ Bug Detection X-Ray Vision                                    ║
+║  🏆 AWARDS:                                                        ║
+║  ├─ TypeScript Mastery Certificate                               ║
+║  ├─ React Component Artisan                                      ║
+║  ├─ Python Snake Charmer Badge                                   ║
+║  └─ Cloud Kitchen Architecture Award                             ║
 ║                                                                   ║
-║  🎯 CURRENT MISSION: Operation TransmitFlow                       ║
-║  🏆 ACHIEVEMENTS: Countless bugs defeated, features created        ║
+║  🍽️ MOTTO: "Cooking code with passion, serving with precision"    ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## ⚡ **POWER LEVELS**
+## 🍳 **TODAY'S SPECIAL RECIPE**
 
 <div align="center">
 
-### 🔥 **FRONTEND ABILITIES**
 ```
-TypeScript  ████████████████████████████████████████ 95%
-React.js    ████████████████████████████████████████ 90%
-Next.js     ████████████████████████████████████░░░░ 88%
-JavaScript  ████████████████████████████████████░░░░ 85%
-CSS/HTML    ████████████████████████████████░░░░░░░░ 82%
-```
-
-### 💀 **BACKEND POWERS**
-```
-Python      ████████████████████████████████████░░░░ 87%
-Django      ████████████████████████████████░░░░░░░░ 85%
-Node.js     ████████████████████████████████░░░░░░░░ 83%
-APIs        ████████████████████████████████████░░░░ 88%
-Databases   ████████████████████████████░░░░░░░░░░░░ 80%
-```
-
-### ☁️ **CLOUD ABILITIES**
-```
-Google Cloud ████████████████████████████░░░░░░░░░░░ 78%
-AWS         ████████████████████████████░░░░░░░░░░░░ 75%
-Docker      ████████████████████████████████░░░░░░░░ 82%
-Firebase    ████████████████████████████████░░░░░░░░ 80%
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│                    🍽️ RECIPE OF THE DAY 🍽️                     │
+│                                                                 │
+│                      📖 TRANSMITFLOW DELIGHT 📖                 │
+│                                                                 │
+│  PREP TIME: 6 months        COOK TIME: Ongoing                 │
+│  DIFFICULTY: Expert         SERVINGS: Unlimited users          │
+│                                                                 │
+│  🥘 INGREDIENTS:                                                │
+│  • 2 cups of TypeScript (premium grade)                        │
+│  • 1 large React framework (fresh)                             │
+│  • 3 tbsp Node.js (backend seasoning)                          │
+│  • 1 dash of WebRTC (for real-time flavor)                     │
+│  • Security encryption (to taste)                              │
+│  • A pinch of creativity                                       │
+│  • Unlimited passion for coding                                │
+│                                                                 │
+│  👨‍🍳 COOKING INSTRUCTIONS:                                       │
+│  1. Start by heating your development environment               │
+│  2. Mix TypeScript with React until smooth                     │
+│  3. Gradually add Node.js while stirring continuously          │
+│  4. Sprinkle WebRTC for peer-to-peer connections               │
+│  5. Season with security measures                              │
+│  6. Let it simmer with continuous integration                  │
+│  7. Serve hot to users worldwide!                              │
+│                                                                 │
+│  🎯 EXPECTED COMPLETION: Q2 2025                                │
+│  ⭐ CHEF'S RATING: 5/5 Stars                                    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🚀 **CURRENT MISSION: OPERATION TRANSMITFLOW**
+## 🥘 **KITCHEN SKILLS & TECHNIQUES**
 
 <div align="center">
 
+### 🔥 **FRONTEND COOKING STATION**
 ```
-💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
-💥                                                        💥
-💥               🎯 MISSION BRIEFING 🎯                   💥
-💥                                                        💥
-💥  OPERATION NAME: TransmitFlow                          💥
-💥  THREAT LEVEL: World-Changing Innovation               💥
-💥  OBJECTIVE: Create the ultimate P2P file transfer      💥
-💥             system that saves humanity from           💥
-💥             insecure file sharing villains!           💥
-💥                                                        💥
-💥  🛡️ WEAPONS DEPLOYED:                                  💥
-💥  ├─ TypeScript (Primary weapon)                       💥
-💥  ├─ React (Shield generator)                          💥  
-💥  ├─ WebRTC (Communication device)                     💥
-💥  └─ Node.js (Power source)                            💥
-💥                                                        💥
-💥  📊 MISSION PROGRESS:                                  💥
-💥  [████████████████████░░░░] 80% COMPLETE               💥
-💥                                                        💥
-💥  🎯 ESTIMATED COMPLETION: Q2 2025                      💥
-💥  💪 STATUS: HERO IS FULLY ENGAGED!                     💥
-💥                                                        💥
-💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
+TypeScript Mastery    🍳🍳🍳🍳🍳🍳🍳🍳🍳🔥 Expert Level
+React Techniques      🍳🍳🍳🍳🍳🍳🍳🍳🍳░ Master Chef  
+Next.js Preparation   🍳🍳🍳🍳🍳🍳🍳🍳░░ Skilled Cook
+JavaScript Basics     🍳🍳🍳🍳🍳🍳🍳🍳░░ Experienced
+CSS Garnishing        🍳🍳🍳🍳🍳🍳🍳🍳░░ Artistic Touch
+```
+
+### 🥩 **BACKEND GRILL STATION**
+```
+Python Preparation    🥩🥩🥩🥩🥩🥩🥩🥩🔥░ Well-Done
+Django Framework      🥩🥩🥩🥩🥩🥩🥩🥩░░ Medium-Well
+Node.js Searing       🥩🥩🥩🥩🥩🥩🥩🥩░░ Perfectly Cooked
+API Development       🥩🥩🥩🥩🥩🥩🥩🥩🔥░ Flame-Grilled
+Database Management   🥩🥩🥩🥩🥩🥩🥩░░░░ Tender & Juicy
+```
+
+### ☁️ **CLOUD KITCHEN EQUIPMENT**
+```
+Google Cloud Oven     ☁️☁️☁️☁️☁️☁️☁️☁️░░ Professional Grade
+AWS Infrastructure    ☁️☁️☁️☁️☁️☁️☁️░░░░ Commercial Kitchen
+Firebase Sous Vide    ☁️☁️☁️☁️☁️☁️☁️☁️░░ Precision Cooking  
+Docker Containers     ☁️☁️☁️☁️☁️☁️☁️☁️☁️░ Portion Control
 ```
 
 </div>
 
 ---
 
-## 📊 **HERO STATISTICS**
+## 📊 **RESTAURANT REVIEWS & RATINGS**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a23&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10neWOlF&layout=compact&theme=radical&hide_border=true&bg_color=0a0a23&title_color=ff6b35&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=vue&hide_border=true&bg_color=fef3c7&title_color=f97316&icon_color=f59e0b&text_color=92400e&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10neWOlF&layout=compact&theme=vue&hide_border=true&bg_color=fef3c7&title_color=f97316&text_color=92400e" width="48%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=10neWOlF&theme=radical&hide_border=true&background=0a0a23&stroke=ff6b35&ring=ffdd44&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b35&sideLabels=ffdd44&dates=ffffff"/>
+<img src="https://streak-stats.demolab.com/?user=10neWOlF&theme=vue&hide_border=true&background=fef3c7&stroke=f97316&ring=f59e0b&fire=dc2626&currStreakNum=92400e&sideNums=92400e&currStreakLabel=f97316&sideLabels=f59e0b&dates=92400e"/>
 
 </div>
 
 ---
 
-## 🏆 **ACHIEVEMENTS UNLOCKED**
+## 📞 **RESTAURANT RESERVATIONS**
 
 <div align="center">
 
 ```
-🏅 CODING CHAMPION         🎯 BUG DESTROYER SUPREME
-🚀 INNOVATION MASTER       💡 PROBLEM SOLVING WIZARD  
-🌟 FULL-STACK LEGEND       ⚡ TYPESCRIPT VIRTUOSO
-🛡️ CODE QUALITY GUARDIAN   🔥 REACT COMPONENT HERO
-☁️ CLOUD ARCHITECTURE ACE  🎪 OPEN SOURCE CONTRIBUTOR
-```
-
-</div>
-
----
-
-## 📞 **HERO COMMUNICATION CENTER**
-
-<div align="center">
-
-```
-🦸‍♂️ HOW TO REACH THE CODE CRUSADER 🦸‍♂️
-════════════════════════════════════════
+🍽️ MAKE A RESERVATION 🍽️
+═══════════════════════════
 ```
 
 <a href="mailto:shubhamp2504@gmail.com">
-<img src="https://img.shields.io/badge/⚡_HERO_HOTLINE-Emergency_Contact-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a23&color=ff6b35"/>
+<img src="https://img.shields.io/badge/📧_RESERVATION-Book_Table-f97316?style=for-the-badge&logo=gmail&logoColor=white&labelColor=92400e&color=f97316"/>
 </a>
 <a href="https://x.com/ShubhamPardule">
-<img src="https://img.shields.io/badge/🐦_HERO_NETWORK-Twitter_HQ-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0a23&color=1da1f2"/>
+<img src="https://img.shields.io/badge/🐦_FOOD_BLOG-Daily_Menu-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=92400e&color=1da1f2"/>
 </a>
 <a href="https://instagram.com/_.__.shubham.__._">
-<img src="https://img.shields.io/badge/📸_HERO_CAM-Instagram_Feed-e4405f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a23&color=e4405f"/>
+<img src="https://img.shields.io/badge/📸_FOOD_PICS-Instagram_Kitchen-e4405f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=92400e&color=e4405f"/>
 </a>
 <a href="https://github.com/10neWOlF">
-<img src="https://img.shields.io/badge/💻_HERO_BASE-GitHub_Fortress-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a23&color=333333"/>
+<img src="https://img.shields.io/badge/💻_KITCHEN_TOUR-GitHub_Recipes-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=92400e&color=333333"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=10neWOlF&label=Citizens%20Saved&color=ff6b35&style=for-the-badge&labelColor=0a0a23" alt="Citizens Saved"/>
+<img src="https://komarev.com/ghpvc/?username=10neWOlF&label=Happy%20Customers&color=f97316&style=for-the-badge&labelColor=92400e" alt="Happy Customers"/>
 
 </div>
 
 ---
 
-## 🌟 **HERO ACTIVITY MONITOR**
+## 🍳 **KITCHEN ACTIVITY FEED**
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake.svg">
-  <img alt="hero's daily crime-fighting activities" src="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake.svg">
+  <img alt="daily kitchen activity and meal preparation" src="https://raw.githubusercontent.com/10neWOlF/10neWOlF/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -195,19 +185,37 @@ Firebase    ██████████████████████�
 
 <div align="center">
 
+### 🍽️ *"Cooking is an art, but coding is the masterpiece"*
+
+<br/>
+
+<details>
+<summary>👨‍🍳 <strong>Chef's Secret Recipes</strong></summary>
+
+<br/>
+
+- 🔥 **Currently perfecting:** TransmitFlow - A revolutionary file sharing delicacy
+- 📚 **Learning new techniques:** Advanced AI/ML fusion cooking, Cloud kitchen mastery
+- 🤝 **Looking for sous chefs:** Collaborative cooking partners, innovative flavor developers
+- 🍽️ **Available for:** Custom development dishes, consulting on tech recipes
+- 💬 **Let's discuss:** Cooking methodologies, recipe optimization, kitchen workflows
+- 👨‍🍳 **Chef's secret:** I code better with coffee brewing and jazz music! ☕🎵
+
+</details>
+
+<br/>
+
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║  💥 "With great coding power comes great responsibility" 💥        ║
+║  🍳 "A recipe has no soul. You, as the cook, must bring soul      ║
+║      to the recipe." - Thomas Keller                              ║
 ║                                                                   ║
-║  🦸‍♂️ The Code Crusader is always ready to save the day with      ║
-║     clean, efficient, and innovative solutions!                   ║
-║                                                                   ║
-║  🌟 Join the mission! Together we can build a better web! 🌟      ║
+║  👨‍🍳 Chef Shubham's Kitchen is always open for collaboration!     ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,12,15,20&height=120&section=footer&text=TO%20BE%20CONTINUED...&fontSize=20&fontColor=ffffff&animation=blinking"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,22&height=120&section=footer&text=🍽️%20BON%20APPÉTIT!%20🍽️&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
 
 </div>

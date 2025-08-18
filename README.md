@@ -42,8 +42,8 @@
 - 🔍 User-centered design systems  
 - ⚡ Performance-optimized applications
 
-**Philosophy:**
-> *"Great software is born from the intersection of human needs and technological possibilities."*
+**Mission:**
+> *"Crafting seamless digital experiences that bridge the gap between technology and human interaction."*
 
 **Core Values:**
 - **Simplicity** over complexity
@@ -102,19 +102,23 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<h4>🎯 Project Spotlight</h4>
-<a href="https://github.com/10neWOlF">
+<h4>🚀 TransmitFlow</h4>
+<a href="https://github.com/10neWOlF/transmitflow">
 <img src="https://img.shields.io/badge/Explore-2D3436?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br><br>
+<sub><i>Fast, secure P2P file transfer web app<br>No registration • No cloud • Direct sharing</i></sub>
+<br><br>
 <img src="https://img.shields.io/badge/React-FF6B6B?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-4ECDC4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebRTC-4ECDC4?style=flat-square&logoColor=white"/>
 </td>
 <td align="center" width="50%">
 <h4>⚡ Innovation Lab</h4>
 <a href="https://github.com/10neWOlF">
 <img src="https://img.shields.io/badge/Discover-2D3436?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<br><br>
+<sub><i>Exploring cutting-edge technologies<br>and experimental projects</i></sub>
 <br><br>
 <img src="https://img.shields.io/badge/Python-45B7D1?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI/ML-96CEB4?style=flat-square&logoColor=white"/>
@@ -133,11 +137,11 @@
 <a href="https://github.com/10neWOlF">
 <img src="https://img.shields.io/badge/GitHub-2D3436?style=flat&logo=github&logoColor=white&labelColor=2D3436" height="30"/>
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/shubhampardule/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" height="30"/>
 </a>
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" height="30"/>
+<a href="https://x.com/ShubhamPardule">
+<img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white&labelColor=000000" height="30"/>
 </a>
 
 <br><br>

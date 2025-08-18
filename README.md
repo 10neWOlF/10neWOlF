@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<!-- Minimalist Geometric Header -->
+<!-- Minimalist Geometric Header with Animation -->
 <svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="sunset" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -11,11 +11,21 @@
       <stop offset="100%" style="stop-color:#45B7D1"/>
     </linearGradient>
   </defs>
-  <circle cx="100" cy="60" r="25" fill="#FF6B6B" opacity="0.8"/>
-  <circle cx="200" cy="60" r="20" fill="#4ECDC4" opacity="0.7"/>
-  <circle cx="300" cy="60" r="30" fill="#45B7D1" opacity="0.6"/>
-  <circle cx="400" cy="60" r="15" fill="#96CEB4" opacity="0.9"/>
-  <circle cx="500" cy="60" r="35" fill="#FFEAA7" opacity="0.5"/>
+  <circle cx="100" cy="60" r="25" fill="#FF6B6B" opacity="0.8">
+    <animateTransform attributeName="transform" type="translate" values="0,-3; 0,3; 0,-3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="60" r="20" fill="#4ECDC4" opacity="0.7">
+    <animateTransform attributeName="transform" type="translate" values="0,2; 0,-2; 0,2" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="60" r="30" fill="#45B7D1" opacity="0.6">
+    <animateTransform attributeName="transform" type="translate" values="0,-2; 0,4; 0,-2" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="60" r="15" fill="#96CEB4" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,3; 0,-3; 0,3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="60" r="35" fill="#FFEAA7" opacity="0.5">
+    <animateTransform attributeName="transform" type="translate" values="0,-1; 0,2; 0,-1" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
   <text x="300" y="90" font-family="Georgia, serif" font-size="28" fill="#2D3436" text-anchor="middle" font-weight="bold">Shubham Pardule</text>
 </svg>
 

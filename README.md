@@ -41,6 +41,8 @@
 
 ### 🎨 **Creative. Functional. Innovative.**
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=false&width=400&height=50&lines=Building+the+future%2C+one+line+at+a+time;Passionate+about+clean+code+%26+design;Always+learning%2C+always+growing" alt="Typing SVG" />
+
 </div>
 
 <table width="100%" border="0">

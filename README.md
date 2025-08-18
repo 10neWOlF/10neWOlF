@@ -1,171 +1,157 @@
-<!-- Dynamic Terminal Window -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=10neWOlF&fontSize=80&rotate=-2&fontAlignY=45&fontColor=00ff41&stroke=00ff41&strokeWidth=2&animation=twinkling&color=0:0d1117,50:161b22,100:0d1117" width="100%" />
-</div>
-
-<!-- Holographic Card Effect -->
-<div align="center">
-  <a href="https://github.com/10neWOlF">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Shubham+Pardule;Full+Stack+Architect+%F0%9F%8C%8C;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- Liquid Morphing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Interactive 3D Cube Grid -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/EXPLORER-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGZmNDEiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTIxIDExLjVhOC4zOCA4LjM4IDAgMCAxLS45IDMuOCA4LjUgOC41IDAgMCAxLTcuNiA0LjcgOC4zOCA4LjM4IDAgMCAxLTMuOC0uOUw1IDIxbDEuOS0zLjdhOC4zOCA4LjM4IDAgMCAxLS45LTMuOCA4LjUgOC41IDAgMCAxIDQuNy03LjYgOC4zOCA4LjM4IDAgMCAxIDMuOC45TDE5IDNsLTEuOSAzLjdhOC4zOCA4LjM4IDAgMCAxIC45IDMuOCIvPjwvc3ZnPg==">
-        <br><br>
-        <img src="https://img.shields.io/badge/Code%20Explorer-00ff41?style=flat-square&logo=opensourceinitiative&logoColor=0d1117">
-        <br>
-        <sub>Discovering new paradigms</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/ARCHITECT-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM1OGE2ZmYiIHN0cm9rZS13aWR0aD0iMiI+PHJlY3QgeD0iMiIgeT0iNyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE0IiByeD0iMiIgcnk9IjIiLz48cGF0aCBkPSJNMTYgMjF2LTJhNCA0IDAgMCAwLTQtNCA0IDQgMCAwIDAtNCA0djIiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjExIiByPSIzIi8+PC9zdmc+">
-        <br><br>
-        <img src="https://img.shields.io/badge/System%20Designer-58a6ff?style=flat-square&logo=blueprint&logoColor=0d1117">
-        <br>
-        <sub>Crafting digital experiences</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/INNOVATOR-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZjZiOWQiIHN0cm9rZS13aWR0aD0iMiI+PHBvbHlnb24gcG9pbnRzPSIxMiAyIDIgNyAxMiAxMiAyMiA3IDEyIDIiLz48cG9seWxpbmUgcG9pbnRzPSIyIDcgMTIgMTIgMTIgMjIgMjIgNyAxMiAxMiIvPjwvc3ZnPg==">
-        <br><br>
-        <img src="https://img.shields.io/badge/Tech%20Pioneer-ff6b9d?style=flat-square&logo=rocket&logoColor=0d1117">
-        <br>
-        <sub>Pushing boundaries daily</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Animated Wave Separator -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-</div>
-
-<!-- Quantum Tech Stack -->
-<div align="center">
-  <h3>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
-    Quantum Tech Matrix
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
-  </h3>
-</div>
+# 
 
 <div align="center">
-  <!-- Frontend Constellation -->
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117&borderColor=61DAFB&border=2px" />
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=0d1117" />
-  
-  <br>
-  
-  <!-- Backend Nexus -->
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=CE4A21&labelColor=0d1117" />
-  
-  <br>
-  
-  <!-- Cloud Dimension -->
-  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/K8s-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=E10098&labelColor=0d1117" />
+
+<!-- Minimalist Geometric Header -->
+<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sunset" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B6B"/>
+      <stop offset="50%" style="stop-color:#4ECDC4"/>
+      <stop offset="100%" style="stop-color:#45B7D1"/>
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="60" r="25" fill="#FF6B6B" opacity="0.8"/>
+  <circle cx="200" cy="60" r="20" fill="#4ECDC4" opacity="0.7"/>
+  <circle cx="300" cy="60" r="30" fill="#45B7D1" opacity="0.6"/>
+  <circle cx="400" cy="60" r="15" fill="#96CEB4" opacity="0.9"/>
+  <circle cx="500" cy="60" r="35" fill="#FFEAA7" opacity="0.5"/>
+  <text x="300" y="90" font-family="Georgia, serif" font-size="28" fill="#2D3436" text-anchor="middle" font-weight="bold">Shubham Pardule</text>
+</svg>
+
+<br>
+
+*Architect of Digital Experiences*
+
 </div>
 
-<!-- Neon Divider -->
+---
+
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### 🎨 **Creative. Functional. Innovative.**
+
 </div>
 
-<!-- Dynamic Activity Graph -->
+<table width="100%" border="0">
+<tr>
+<td width="60%" valign="top">
+
+**Currently Building:**
+- 🌱 Sustainable web solutions
+- 🔍 User-centered design systems  
+- ⚡ Performance-optimized applications
+
+**Philosophy:**
+> *"Great software is born from the intersection of human needs and technological possibilities."*
+
+**Core Values:**
+- **Simplicity** over complexity
+- **Impact** over features  
+- **Quality** over quantity
+
+</td>
+<td width="40%" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10neWOlF&layout=compact&theme=minimal&hide_border=true&title_color=2D3436&text_color=636E72&icon_color=FF6B6B" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
-  <h3>⚡ Contribution Plasma Field ⚡</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=10neWOlF&bg_color=0d1117&color=58a6ff&line=00ff41&point=ff6b9d&area=true&hide_border=true" width="100%"/>
+
+### 🛠️ **Craft & Tools**
+
+<br>
+
+**Frontend Magic**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Backend Artistry**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+**Cloud Canvas**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 </div>
 
-<!-- Holographic Stats Cards -->
+---
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00ff41&text_color=c9d1d9&ring_color=ff6b9d&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=10neWOlF&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=00ff41&fire=ff6b9d&currStreakLabel=c9d1d9&currStreakNum=00ff41&sideLabels=58a6ff&sideNums=c9d1d9" />
+
+### 📊 **Journey Metrics**
+
+<img src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=minimal&hide_border=true&title_color=2D3436&text_color=636E72&icon_color=FF6B6B&include_all_commits=true&count_private=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=10neWOlF&theme=minimal&hide_border=true&stroke=2D3436&ring=FF6B6B&fire=4ECDC4&currStreakLabel=636E72" width="48%"/>
+
 </div>
 
-<!-- Cosmic Project Showcase -->
+---
+
 <div align="center">
-  <h3>🌌 Cosmic Creations 🌌</h3>
-  <table>
-    <tr>
-      <td width="50%">
-        <h4 align="center">🔮 Featured Project Alpha</h4>
-        <div align="center">
-          <a href="https://github.com/10neWOlF">
-            <img src="https://img.shields.io/badge/View%20Project-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Status-Active-00ff41?style=flat-square&labelColor=0d1117" />
-          <img src="https://img.shields.io/badge/Tech-React%20%7C%20Node-58a6ff?style=flat-square&labelColor=0d1117" />
-        </p>
-      </td>
-      <td width="50%">
-        <h4 align="center">⚡ Featured Project Beta</h4>
-        <div align="center">
-          <a href="https://github.com/10neWOlF">
-            <img src="https://img.shields.io/badge/View%20Project-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Status-Building-ff6b9d?style=flat-square&labelColor=0d1117" />
-          <img src="https://img.shields.io/badge/Tech-Python%20%7C%20AI-58a6ff?style=flat-square&labelColor=0d1117" />
-        </p>
-      </td>
-    </tr>
-  </table>
+
+### 🌟 **Featured Work**
+
+<table>
+<tr>
+<td align="center" width="50%">
+<h4>🎯 Project Spotlight</h4>
+<a href="https://github.com/10neWOlF">
+<img src="https://img.shields.io/badge/Explore-2D3436?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br><br>
+<img src="https://img.shields.io/badge/React-FF6B6B?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-4ECDC4?style=flat-square&logoColor=white"/>
+</td>
+<td align="center" width="50%">
+<h4>⚡ Innovation Lab</h4>
+<a href="https://github.com/10neWOlF">
+<img src="https://img.shields.io/badge/Discover-2D3436?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br><br>
+<img src="https://img.shields.io/badge/Python-45B7D1?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI/ML-96CEB4?style=flat-square&logoColor=white"/>
+</td>
+</tr>
+</table>
+
 </div>
 
-<!-- Neural Network Connection -->
+---
+
 <div align="center">
-  <h3>🧬 Neural Network 🧬</h3>
-  <a href="https://github.com/10neWOlF">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
+
+### 🤝 **Let's Connect**
+
+<a href="https://github.com/10neWOlF">
+<img src="https://img.shields.io/badge/GitHub-2D3436?style=flat&logo=github&logoColor=white&labelColor=2D3436" height="30"/>
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" height="30"/>
+</a>
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" height="30"/>
+</a>
+
+<br><br>
+
+*"Building tomorrow's web, one commit at a time"*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=10neWOlF&style=flat&color=FF6B6B&label=Profile+Views" alt="Profile Views"/>
+
 </div>
 
-<!-- Matrix Rain Effect -->
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=1&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=600&height=40&lines=%7B+%22status%22%3A+%22online%22%2C+%22mode%22%3A+%22creating%22%2C+%22energy%22%3A+%22∞%22+%7D" alt="Status" />
+<sub><i>Crafted with intention • Powered by passion • Made with ❤️</i></sub>
 </div>
-
-<!-- Visitor Counter with Glow Effect -->
-<div align="center">
-  <br>
-  <img src="https://profile-counter.glitch.me/10neWOlF/count.svg" alt="Visitor Count" style="box-shadow: 0 0 10px #00ff41;" />
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&fontSize=0" width="100%" />
-</div>
-
-<!-- Hidden Easter Egg -->
-<!-- 
-╔══════════════════════════════════════════════════════╗
-║  "The only way to do great work is to love what      ║
-║   you do. Keep searching, keep building, keep         ║
-║   pushing the boundaries of what's possible."         ║
-║                                     - 10neWOlF        ║
-╚══════════════════════════════════════════════════════╝
--->

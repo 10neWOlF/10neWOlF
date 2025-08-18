@@ -71,24 +71,7 @@
 
 ---
 
-<div align="center" style="position: relative; overflow: hidden;">
-
-<div style="position: absolute; width: 100%; height: 200px; top: 0; left: 0; z-index: -1; opacity: 0.1;">
-  <div style="position: absolute; width: 20px; height: 20px; background: #FF6B6B; border-radius: 50%; top: 20%; left: 10%; filter: blur(2px); animation: float 6s ease-in-out infinite;"></div>
-  <div style="position: absolute; width: 15px; height: 15px; background: #4ECDC4; border-radius: 50%; top: 60%; left: 80%; filter: blur(2px); animation: float 4s ease-in-out infinite reverse;"></div>
-  <div style="position: absolute; width: 25px; height: 25px; background: #45B7D1; border-radius: 50%; top: 40%; left: 60%; filter: blur(3px); animation: float 5s ease-in-out infinite;"></div>
-  <div style="position: absolute; width: 12px; height: 12px; background: #96CEB4; border-radius: 50%; top: 80%; left: 30%; filter: blur(2px); animation: float 7s ease-in-out infinite reverse;"></div>
-  <div style="position: absolute; width: 18px; height: 18px; background: #FFEAA7; border-radius: 50%; top: 30%; left: 20%; filter: blur(2px); animation: float 3s ease-in-out infinite;"></div>
-</div>
-
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0) translateX(0); }
-  25% { transform: translateY(-20px) translateX(10px); }
-  50% { transform: translateY(-10px) translateX(-15px); }
-  75% { transform: translateY(-30px) translateX(5px); }
-}
-</style>
+<div align="center">
 
 ### 🛠️ **Craft & Tools**
 
